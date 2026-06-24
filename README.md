@@ -17,7 +17,7 @@
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Nudelbox88">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">
 	</a>
 </p>
@@ -57,9 +57,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://www.lua.org/images/luaa.gif" alt="Lua"/> 
   </a>
 <!--   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
